@@ -1,21 +1,12 @@
-<style>
-  .container{
-    text-align: center;
-  }
-  .container .text.first-text{
-    color:"#f00"
-  }
+
   
 </style>
 <div class="container">
-<span class="text first-text">I'm a </span>
+<span class="text first-text" style = "color:"red"">I'm a </span>
 <span class= "text second-text">Freelancer</span>
   
 </div>
 
-<script>
-  
-</script>
 
 
 #### Hi there 👋
