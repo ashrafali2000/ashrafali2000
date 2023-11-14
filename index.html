@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banner</title>
+</head>
+<body>
+    <style>
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 20vh;
+    }
+        .container .text{
+            position: relative;
+        text-align: center;
+        }
+        .container{
+       font-size: 30px;
+       font-weight: 800;
+        }
+        .container .text.second-text{
+            color: red;
+        }
+        .text.second-text::before{
+           content: "";
+           position: absolute;
+           top: 0;
+           left: 0;
+           height: 100%;
+           width: 100%;
+           background-color: #fff;
+           border-left: 2px solid #00f;
+           animation: animate 4s steps(12) infinite;
+        }
+        @keyframes animate {
+            40% ,60%{
+                left: 100%;
+            }
+            100%{
+                left: 0%;
+            }
+
+        }
+    </style>
+   <div class="container">
+    <span class="text first-text">I'm a</span>
+    <span class="text second-text">Freelancer</span>
+   </div>
+
+   <script>
+    const text = document.querySelector(".second-text");
+    const loadText = () => {
+        setTimeout(() => {
+            text.textContent = "Web Designer";
+        }, 0);
+        setTimeout(() => {
+            text.textContent = "Frontend  Developer";
+        }, 4000);
+        setTimeout(() => {
+            text.textContent = "backend  Developer";
+        }, 8000);
+        setTimeout(() => {
+            text.textContent = "Full Stack Developer";
+        }, 12000);
+    }
+    loadText()
+   </script>
+</body>
+</html>
