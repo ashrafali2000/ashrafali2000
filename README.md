@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **vuejs**
 
-- 💬 Ask me about **react.js, next.js, node.js,express.js, typescript,tailwind.css,**
+- 💬 Ask me about **react.js, next.js, node.js,express.js,vue.js typescript,tailwind.css,**
 
 - 📫 How to reach me **ashrafalikakozai9876@gmail.com**
  - 👨‍💻 All of my projects are available at [https://ashrafalikakozai.vercel.app/](https://ashrafalikakozai.vercel.app/)
