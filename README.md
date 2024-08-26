@@ -28,7 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafali2000&show_icons=true&locale=en" alt="ashrafali2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafali2000&" alt="ashrafali2000" /></p>
-![github contribution grid snake animation](https://raw.githubusercontent.com/ashrafali2000/ashrafali2000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ashrafali2000/ashrafali2000/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 ![](https://komarev.com/ghpvc/?username=ashrafali2000)
