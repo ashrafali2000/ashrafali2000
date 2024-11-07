@@ -1,4 +1,4 @@
-<img src="https://www.iscistech.in/image/software-development-banner-iscistech-business-solution-india.jpg" height="290" width="100%" />
+![ashrafali](gitartwork.svg)
 <h1 align="center">Hi 👋, I'm Ashraf Ali</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
